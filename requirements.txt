@@ -1,0 +1,11 @@
+python-telegram-bot==22.7
+requests
+httpx
+protobuf
+pycryptodome
+PyJWT
+urllib3
+protobuf-decoder
+pytz
+aiohttp
+google-play-scraper
